@@ -1,2 +1,4 @@
 TripleX.exe
 TripleX.obj
+*.pdb
+.vscode
